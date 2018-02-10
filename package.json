@@ -1,5 +1,5 @@
 {
-  "name": "platzon",
+  "name": "@lilicolls/platzon",
   "version": "0.1.0",
   "description": "traductor de idioma platzon",
   "main": "dist/src/platzom.js",
